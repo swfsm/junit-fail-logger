@@ -1,0 +1,4 @@
+.idea
+target
+junit-fail-logger.iml
+failures.log
